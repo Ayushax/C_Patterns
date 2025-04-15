@@ -4,7 +4,7 @@ int main()
 {
     
     int n;
-     scanf("%d\n", &n);
+    scanf("%d", &n);
   	int size = 2*n -1;
     
     for(int i = 0;i<size;i++)
